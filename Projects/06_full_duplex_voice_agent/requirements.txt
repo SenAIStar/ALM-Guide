@@ -1,0 +1,5 @@
+fastapi>=0.112
+uvicorn>=0.30
+websockets>=12
+numpy>=1.26
+torch>=2.2

@@ -1,0 +1,8 @@
+{
+  "sample_rate": 16000,
+  "chunk_seconds": 30.0,
+  "overlap_seconds": 5.0,
+  "max_answer_seconds": 20.0,
+  "iou_threshold": 0.5,
+  "metrics_status": "not_measured"
+}

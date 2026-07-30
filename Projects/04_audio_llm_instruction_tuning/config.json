@@ -1,0 +1,9 @@
+{
+  "audio_encoder_id": "microsoft/wavlm-base-plus",
+  "llm_id": "Qwen/Qwen2.5-7B-Instruct",
+  "sample_rate": 16000,
+  "connector": "two_layer_mlp",
+  "freeze_audio_encoder": true,
+  "use_lora": true,
+  "metrics_status": "not_measured"
+}

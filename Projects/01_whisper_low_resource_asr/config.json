@@ -1,0 +1,11 @@
+{
+  "model_id": "openai/whisper-small",
+  "language": "zh",
+  "task": "transcribe",
+  "sample_rate": 16000,
+  "max_audio_seconds": 30.0,
+  "train_manifest": "data/train.jsonl",
+  "validation_manifest": "data/validation.jsonl",
+  "output_dir": "outputs/whisper-small-lora",
+  "metrics_status": "not_measured"
+}

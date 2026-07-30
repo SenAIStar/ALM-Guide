@@ -1,0 +1,7 @@
+torch>=2.2
+torchaudio>=2.2
+transformers>=4.45
+datasets>=2.20
+accelerate>=0.33
+soundfile>=0.12
+speechbrain>=1.0

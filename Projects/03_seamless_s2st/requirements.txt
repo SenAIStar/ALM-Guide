@@ -1,0 +1,7 @@
+torch>=2.2
+torchaudio>=2.2
+transformers>=4.45
+accelerate>=0.33
+peft>=0.12
+soundfile>=0.12
+sacrebleu>=2.4

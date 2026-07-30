@@ -1,0 +1,6 @@
+torch>=2.2
+torchaudio>=2.2
+transformers>=4.45
+pyannote.audio>=3.3
+fastapi>=0.112
+uvicorn>=0.30

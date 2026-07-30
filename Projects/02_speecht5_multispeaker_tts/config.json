@@ -1,0 +1,9 @@
+{
+  "model_id": "microsoft/speecht5_tts",
+  "vocoder_id": "microsoft/speecht5_hifigan",
+  "sample_rate": 16000,
+  "speaker_embedding_dim": 512,
+  "manifest": "data/train.jsonl",
+  "output_dir": "outputs/speecht5-multispeaker",
+  "metrics_status": "not_measured"
+}

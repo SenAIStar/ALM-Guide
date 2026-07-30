@@ -1,0 +1,8 @@
+{
+  "sample_rate": 16000,
+  "frame_ms": 20,
+  "barge_in_min_speech_ms": 160,
+  "endpoint_silence_ms": 500,
+  "cancel_deadline_ms": 120,
+  "metrics_status": "not_measured"
+}
